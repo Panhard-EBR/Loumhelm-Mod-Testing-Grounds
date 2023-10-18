@@ -1,0 +1,258 @@
+[
+	{
+		"name": "Elvin Imperial State",
+		"leaderName": "Switelin the 1st",
+		"adjective": ["Elvin"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "The Elvin Imperial State: An Imitation of Glory",
+		"startIntroPart2": "After years of civil war, one faction rose above the ruins of the old Elvin Empire. One that has far less kind intentions than the last.",
+		
+		"declaringWar": "You simply have no place for this world. Now lay down and die for the good of all of us.",
+		"attacked": "How charming...!",
+		"defeated": "A tragedy had befallen world itself! Now the impure and evil shall rule these lands forever more...!",
+		"introduction": "Who are you, ones so pathetic that they don't deserve to grovel before us?",
+		
+		"neutralHello": "What is it?",
+
+
+		"neutralLetsHearIt": ["Speak now or else.",
+"What do you say?",
+"Do not waste my time."],
+
+		"neutralNo": ["As with all the impure, you are nothing worthy.",
+"I deny your empty words.",
+"Do you seriously think I would agree?"],
+
+
+		"neutralYes": ["Fine.",
+"You're lucky, I rarely accept proposals from lesser beings.",
+"Such is... very well..."],
+
+
+
+		"hateHello": "What more do you want?",
+
+		"hateLetsHearIt": ["Speak, lesser one!",
+"I will listen, but you shall bow before me first.",
+"Go, prattle on."],
+
+		"hateNo": ["You would think I would say 'yes' to such a sorry creature?",
+"I only listen to those greater than specks of dirt.",
+"Oh please, keep begging!"],
+
+		"hateYes": ["So what's next? Should we celebrate? HAHAHA! how sad.",
+"You are spared for but a few moments",
+"I expected more, so give me more!"],
+
+		
+		"afterPeace": "We accept this treaty, but for true peace, we shall not accept. We WILL return...",
+		"tradeRequest": "So it seems the lesser ones have value after all. Now give us what we want.",
+
+		"outerColor": [163,158,103],
+		"innerColor": [206,201,145],
+		"uniqueName": "Genius and Prejudice"
+		"uniques": [
+"[+15]% Strength <for [All] units>",
+
+"[+5 Science] [in all cities]",
+
+"[+30]% [Science] [in all cities]",
+
+"[+20]% [Gold] [in all cities]",
+
+"Gain a free [Library] [in all cities]",
+
+"Gain a free [University] [in capital]",
+
+"[Great Scientist] is earned [+50]% faster",
+
+"Adopt [Imperialism and Progress]",
+
+"[-3 Happiness] [in all cities]",
+
+"[-25]% [Culture] [in all cities]",
+
+"[-30]% [Production] [in all cities]",
+
+"[-50]% Golden Age length"
+],
+
+
+		"cities": ["Grand Sunlon","Sleictol","Sunlon","Tumberham","Stone Town","Horoland","Dulcter","Whellerlin","Lubland",
+			"Flondereth","Hyphliyctorthrow","Dirtwater","Habwyth","Golter Town","Swiftwater","Ardorlin","Crutland","Queensville","Watherway",
+			"Flystol","Erwain Town"]
+	},
+	{
+		"name": "Sentinal Union, 1st Core",
+		"leaderName": "Jehonas Larm",
+		"adjective": ["Senta"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The Senta 1st Core: A Gang of Warmongers",
+		"startIntroPart2": "Senta as a state had one constant: War
+
+Although many of its people who live today have mellowed and accepted peace, there are still those who seek to rekindle the spark of war.",
+		
+		"declaringWar": "WE CAN'T WAIT NO MORE, WEGOTTAGOWEGOTTAGO. *IT'S WAR SEASON, BOYS!*",
+		"attacked": "YEEESSSS! YEEEEEEESSSSSSS! NOW THAT'S WHAT I'M TALKING ABOUT!",
+		"defeated": "Our land has been destroyed, but not our purpose! For we have passed it on to you. Now go, DESTROY!",
+		"introduction": "Hey fellas, say, who's up for a fight?",
+		
+		"neutralHello": "Hi!",
+
+
+		"neutralLetsHearIt": ["Whaddya wanna say?",
+"I'm all ears, don't be shy.",
+"Is it about war? Please do tell!"],
+
+		"neutralNo": ["Nah, I'd rather not.",
+"Sorry, man, it just ain't right.",
+"That ain't good enough,and you know that."],
+
+
+		"neutralYes": ["Aight.",
+"Today's your lucky day!",
+"Oho! Looks like we got a negotiator here!"],
+
+
+
+		"hateHello": "What's on, you yellow belly?",
+
+		"hateLetsHearIt": ["There somethin' you got? Aight, let's make it quick.",
+"Yeah... sure...",
+"Okay fine, you win."],
+
+		"hateNo": ["You suck.",
+"Screw off!",
+"I'd like to see you say that to my face!"],
+
+		"hateYes": ["I hate ya'... but damn ain't that a good deal!",
+"That's nice... yeah...",
+"Okay, but we still ain't friends."],
+
+		
+		"afterPeace": "What??!?!!? I-It's over?????? NOOOOOOOOOOOOOO!!!!!!!!!!",
+		"tradeRequest": "Hey hey, listen, I want something from ya'...",
+
+		"outerColor": [6,77,0],
+		"innerColor": [10,125,0],
+		"uniqueName": "It's War Season!"
+		"uniques": [
+"[+20]% Strength <for [All] units>",
+
+"No defensive terrain penalty"
+
+"[+100]% XP gained from combat",
+
+"[+30]% [Production] [in all cities]",
+
+"[+2 Happiness] [in all cities]",
+
+"Units in cities cost no Maintenance",
+
+"Gain a free [Barracks] [in all cities]",
+
+"Adopt [Warmonger]",
+
+"[-10]% growth [in all cities]",
+
+"[+100]% Gold cost of upgrading"
+
+"No defensive terrain bonus",
+
+"[-40]% Strength for cities",
+
+"[+100]% maintenance cost for buildings [in all cities]"
+],
+
+
+		"cities": ["Harrinstown SC","Cragsville","New Sunlon","Crackwater","Sunner's Town","Tagburg","Sacklace Creek","Cone Town","New Dacigo",
+			"Chlige","Gunnerville","Orangewater", "Duke Town","New Golter","Waterwater","Helburg","Whileville","Queensplace","Town Water",
+			"Kingsville","Soilburg"]
+	},
+	{
+		"name": "Jirbalimah Emirate",
+		"leaderName": "Lomleol Daphet the 3rd",
+		"adjective": ["Jirimite"],
+		"startBias": ["Desert", "Avoid [Grassland]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Jirbalimah Emirate: A Breeze in a Windless Desert",
+		"startIntroPart2": "Over the years, the Jirbalimah Emirate had taken the brunt of Elvin imperialism, despite them being the same species, their different toned skin and radically different culture was enough to declare them as 'impure', with new found freedom and a longing sense of hate, they will enact revenge against their oppressors.",
+		
+		"declaringWar": "We are not as malevolent as our Imperial counterparts, we shall give you mercy upon defeat!",
+		"attacked": "You... you *DARE* declare *WAR* on *I*? A *SON* of the *Great Prophet's* bloodline!?",
+		"defeated": "My brothers... my sisters... our children... I have failed you all...",
+		"introduction": "Greetings, I am Lomleol, a member of the Great Prophet's bloodline, say, would you care for a cup of gold?",
+		
+		"neutralHello": "Hello, we meet again",
+
+
+		"neutralLetsHearIt": ["Do not fret with your words, speak what your heart tells you.",
+"You desire an audience with me?",
+"My friend, you can talk to me any time of the day!"],
+
+		"neutralNo": ["My apologies, I refuse.",
+"It is simply not to my standards, no?",
+"What you have is not what I currently desire ."],
+
+
+		"neutralYes": ["Yes, this is good.",
+"This is simply a sublime gift!",
+"I shall accept this."],
+
+
+
+		"hateHello": "What now? You are wasting my time.",
+
+		"hateLetsHearIt": ["This better be worthwhile .",
+"You stand at bladepoint.",
+"Sure, just watch your back."],
+
+		"hateNo": ["I never should have said bothered.",
+"Leave!",
+"I would kill you if it wouldn't cause a war."],
+
+		"hateYes": ["By the Prophet's grace, why must this lowlife seduce my desires?",
+"You have what you want. Don't come back here again.",
+"Good, now get out of my sight."],
+
+		
+		"afterPeace": "My heart is burdened for our people's suffering, may this peace bring healing and prosperity to the both of us.",
+		"tradeRequest": "What an honor for you, I want something that you have.",
+
+		"outerColor": [6,77,0],
+		"innerColor": [206,201,145],
+		"uniqueName": "The Winds of Prosperity"
+		"uniques": [
+"[+1 Gold, +2 Food] from [Desert] tiles [in all cities]",
+
+"Gifts of Gold to City-States generate [+25]% more Influence",
+
+"[+50]% [Gold] [in all cities]",
+
+"[+30]% [Culture] [in all cities]",
+
+"[+40]% [Faith] [in all cities]",
+
+"Gain a free [Market] [in all cities]",
+
+"Adopt [Winds of the Desert]",
+
+"[-20]% [Food] [in all cities]",
+
+"[+200]% Gold cost of upgrading",
+
+"[-25]% Strength <for [all] units>",
+
+"[+50]% maintenance cost for buildings [in all cities]"
+]
+
+
+		"cities": ["Histazzel","Destazopoli","Arlmoni","Hyloct","Mezzazzan","Fersa","Taars","Benadopoli","Agatil",
+			"Yozul","Rhiydahk","Dolmus", "Gasacnosa","Midar","Sharshesk","Orniz","Sultor","Fiozzy","Girhano",
+			"Zohyin","Yitman"]
+	}
+]

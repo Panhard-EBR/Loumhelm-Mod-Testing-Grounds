@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Imperial Mech",
+		"unitType": "Ranged",
+		"uniqueTo": "Elvin Imperial State",
+		"movement": 2,
+		"strength": 200,
+		"rangedStrength": 50,
+		"range": 3,
+		"cost": 700,
+		"requiredTech": "Ballistics",
+		"requiredResource": "Uranium",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}
+]
