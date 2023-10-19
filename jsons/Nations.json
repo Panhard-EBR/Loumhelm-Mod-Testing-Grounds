@@ -146,13 +146,13 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"uniques": [
 "[+10]% Strength <for [All] units>",
 
-"[+15]% Strength <for [All] units> {<when at war>}",
+"[+15]% Strength <for [All] units> <when at war>",
 
 "No defensive terrain penalty"
 
 "[+75]% XP gained from combat",
 
-"[+50]% XP gained from combat <[when at war]>",
+"[+50]% XP gained from combat <when at war>",
 
 "[+30]% [Production] [in all cities]",
 
