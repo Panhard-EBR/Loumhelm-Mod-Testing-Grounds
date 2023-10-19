@@ -146,7 +146,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"uniques": [
 "[+10]% Strength <for [All] units>",
 
-"[+15]% Strength <for [All] units> <when at war>",
+"[+15]% Strength <for [All] units> {<when at war>}",
 
 "No defensive terrain penalty"
 
@@ -324,7 +324,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "[+2 Culture, +2 Production] from [Hill] tiles [in all cities]",
 
-"[+4 Culture, +4 production] from [Mountain] tiles [in all cities]",
+"[+4 Culture, +4 Production] from [Mountain] tiles [in all cities]",
 
 "[+20]% [Production] [in all cities]",
 
