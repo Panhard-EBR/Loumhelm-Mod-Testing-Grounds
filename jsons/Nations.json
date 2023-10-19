@@ -328,7 +328,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "[+20]% [Production] [in all cities]",
 
-"Gives a defensive bonus of [30]%",
+"Gives a defensive bonus of [+30]%",
 
 "[+20]% Strength for cities",
 
@@ -355,7 +355,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 
 		"cities": ["Harrinstown MC","Nassemnuschets","Hugo Fort","Zayf Gerner","Crayson","Alders","Tonner Town","Usellies","Katroit",
-			"H","Rhiydahk","Dolmus", "Gasacnosa","Midar","Sharshesk","Orniz","Sultor","Fiozzy","Girhano",
+			"Hakhakerton","Rhiydahk","Dolmus", "Gasacnosa","Midar","Sharshesk","Orniz","Sultor","Fiozzy","Girhano",
 			"Zohyin","Yitman"]
 	}
 ]
