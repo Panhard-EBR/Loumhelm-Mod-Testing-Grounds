@@ -344,7 +344,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "[-20]% Strength <when fighting in [Open terrain] tiles>",
 
-"[20]% Strength decreasing with distance from capital",
+"[+20]% Strength decreasing with distance from capital",
 
 "[+15]% Culture cost of adopting new Policies",
 
@@ -355,8 +355,8 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 
 		"cities": ["Harrinstown MC","Nassemnuschets","Hugo Fort","Zayf Gerner","Crayson","Alders","Tonner Town","Usellies","Katroit",
-			"Hakhakerton","Rhiydahk","Dolmus", "Gasacnosa","Midar","Sharshesk","Orniz","Sultor","Fiozzy","Girhano",
-			"Zohyin","Yitman"]
+			"Hakhakerton","Sloggerbat","Oldwater", "Toast Creek","Wagetown","Dunce","Brodrich","Simmer Town","Houggurt","Red Town",
+			"West Chlige","Hallburg"]
 	}
 ]
 
