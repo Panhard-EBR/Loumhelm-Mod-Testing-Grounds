@@ -309,7 +309,7 @@
             {
                 "name": "A Proper Defense",
                 "uniques": [
-                    "Gives a defensive bonus of [15]%",
+                    "Gives a defensive bonus of [+15]%",
                     "[+15]% Strength for cities",
                     "[+50]% maintenance costs for buildings [in all cities]"
                 ],
