@@ -273,7 +273,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "The Senta 4th Core: A Drop of Reason in an Ocean of Insanity",
-		"startIntroPart2": "The 4th Core was made to be responsible for the defense of the Sentinal homeland, but even they couldn't ingore the call to war, while not as aggressive as their 1st Core brethren, their stalwart defense will break their weapons and leave its wielder open.",
+		"startIntroPart2": "The 4th Core was made to be responsible for the defense of the Sentinal homeland, but even they couldn't ingore the call to war, while not as aggressive as their 1st Core brethren, their stalwart defense will break an attacker's weapons and leave its wielder open.",
 		
 		"declaringWar": "Hey man, it ain't my fault or yours, I just gotta do what I've been told by my superiors.",
 		"attacked": "It was expected, it was you or me, so I don't blame you.",
@@ -306,7 +306,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 		"hateNo": ["Get out.",
 "In another universe, I still would have said no.",
-"Nah"],
+"Nah."],
 
 		"hateYes": ["Okay, great",
 "I hope this leads to us being friends.",
@@ -320,7 +320,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"innerColor": [206,201,145],
 		"uniqueName": "In Defense of the Homeland"
 		"uniques": [
-"[+30]% Strength <when fighting in [Rough terrain] tiles>",
+"[+20]% Strength <when fighting in [Rough terrain] tiles>",
 
 "[+2 Culture, +2 Production] from [Hill] tiles [in all cities]",
 
@@ -328,9 +328,9 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "[+20]% [Production] [in all cities]",
 
-"[Gives a defensive bonus of [40]%",
+"[Gives a defensive bonus of [30]%",
 
-"[+25]% Strength for cities",
+"[+20]% Strength for cities",
 
 "No defensive terrain penalty",
 
@@ -340,9 +340,11 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "Adopt [Prepared for Anything]",
 
-"[-30]% Strength <when fighting in [Open terrain] tiles>",
+"[-15]% Strength",
 
-"[-30]% Strength decreasing with distance from capital",
+"[-20]% Strength <when fighting in [Open terrain] tiles>",
+
+"[20]% Strength decreasing with distance from capital",
 
 "[+15]% Culture cost of adopting new Policies",
 
@@ -352,8 +354,8 @@ Although many of its people who live today have mellowed and accepted peace, the
 ]
 
 
-		"cities": ["Histazzel","Destazopoli","Arlmoni","Hyloct","Mezzazzan","Fersa","Taars","Benadopoli","Agatil",
-			"Yozul","Rhiydahk","Dolmus", "Gasacnosa","Midar","Sharshesk","Orniz","Sultor","Fiozzy","Girhano",
+		"cities": ["Harrinstown MC","Nassemnuschets","Hugo Fort","Zayf Gerner","Crayson","Alders","Tonner Town","Usellies","Katroit",
+			"H","Rhiydahk","Dolmus", "Gasacnosa","Midar","Sharshesk","Orniz","Sultor","Fiozzy","Girhano",
 			"Zohyin","Yitman"]
 	}
 ]
