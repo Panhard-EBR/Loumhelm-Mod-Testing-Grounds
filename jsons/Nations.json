@@ -317,7 +317,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 		"tradeRequest": "You up for a deal?",
 
 		"outerColor": [255,255,255],
-		"innerColor": [206,201,145],
+		"innerColor": [10, 125, 0],
 		"uniqueName": "In Defense of the Homeland"
 		"uniques": [
 "[+20]% Strength <when fighting in [Rough terrain] tiles>",
@@ -328,7 +328,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "[+20]% [Production] [in all cities]",
 
-"Gives a defensive bonus of [+30]%",
+"Gives a defensive bonus of [+30]% <for [all] units>",
 
 "[+20]% Strength for cities",
 
@@ -340,7 +340,7 @@ Although many of its people who live today have mellowed and accepted peace, the
 
 "Adopt [Prepare for Anything]",
 
-"[-15]% Strength",
+"[-15]% Strength <for [all] units>",
 
 "[-20]% Strength <when fighting in [Open terrain] tiles>",
 
