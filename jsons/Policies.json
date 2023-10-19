@@ -333,7 +333,7 @@
                 "uniques": [
                     "[-30]% Culture cost of natural border growth [in all cities]",
                     "[+3] Happiness <in cities with a [Castle]>",
-                    "[+15]% Strength <while empire is happy>"
+                    "[+15]% Strength <while the empire is happy>"
                 ],
                 "requires": ["A Proper Defense"]
                 "row": 2
