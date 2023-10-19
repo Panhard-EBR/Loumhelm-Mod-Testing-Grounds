@@ -250,7 +250,7 @@
             {
                 "name": "Defensive Maneuvers",
                 "uniques": [
-                    "Gives a defensive bonus of [20]%",
+                    "Gives a defensive bonus of [+20]%",
                     "All newly-trained [relevant] units [in all cities] receive the [Cover I] promotion"
                 ],
                 "requires": ["Self-sufficient Army"],
@@ -288,7 +288,7 @@
                 "name": "The First Steps",
                 "uniques": [
                     "Double quantity of [Iron] produced"
-                    "Gives a defensive bonus of [10]%",
+                    "Gives a defensive bonus of [+10]%",
                     "[+10]% Strength for cities"
                 ],
                 "row": 1
@@ -343,7 +343,7 @@
                 "name": "Stalwart Army",
                 "uniques": [
                     "[+1 Movement] <for [all] units> <in [Hill] tiles>",
-                    "Gives a defensive bonus of [10]%",
+                    "Gives a defensive bonus of [+10]%",
                     "All newly-trained [relevant] units [in all cities] receive the [Cover I] promotion",
                     "All newly-trained [relevant] units [in all cities] receive the [Armor Plating I] promotion"
                 ],
